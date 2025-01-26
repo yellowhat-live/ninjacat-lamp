@@ -3,7 +3,7 @@
 This repository contains all the print files and instructions to print and built your own Ninjacat lamp!
 
 > [!NOTE]
-> If you have received a Ninjacat lamp because your were a speaker during the conference, or won one as a giveaway, congratulations! Please skip ahead to the setup instructions at the end.
+> If you have received a Ninjacat lamp because your were a speaker during the conference, or won one as a giveaway, congratulations! Please skip ahead to [the setup instructions](https://github.com/yellowhat-live/ninjacat-lamp/tree/main#re-configure-wifi) at the end.
 
 ## Print and build your own lamp
 
