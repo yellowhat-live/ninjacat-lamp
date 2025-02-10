@@ -3,7 +3,7 @@ param(
     [string]$configurationFile  = "wledconfig.json"
 )
 
-$configurations     = @("state", "info")
+$configurations     = @("state")
 
 Clear-Host
 # Contacting the WLED device to get the current configuration
