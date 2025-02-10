@@ -1,0 +1,166 @@
+{
+  "on": true,
+  "bri": 255,
+  "transition": 7,
+  "ps": 1,
+  "pl": -1,
+  "ledmap": 0,
+  "nl": {
+    "on": false,
+    "dur": 60,
+    "mode": 1,
+    "tbri": 0,
+    "rem": -1
+  },
+  "udpn": {
+    "send": false,
+    "recv": true,
+    "sgrp": 1,
+    "rgrp": 1
+  },
+  "lor": 0,
+  "mainseg": 0,
+  "seg": [
+    {
+      "id": 0,
+      "start": 0,
+      "stop": 33,
+      "len": 33,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "frz": false,
+      "bri": 255,
+      "cct": 127,
+      "set": 0,
+      "n": "Ring",
+      "col": [
+        [
+          255,
+          200,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 28,
+      "sx": 180,
+      "ix": 255,
+      "pal": 0,
+      "c1": 128,
+      "c2": 128,
+      "c3": 16,
+      "sel": true,
+      "rev": false,
+      "mi": false,
+      "o1": false,
+      "o2": false,
+      "o3": false,
+      "si": 0,
+      "m12": 0
+    },
+    {
+      "id": 1,
+      "start": 33,
+      "stop": 71,
+      "len": 38,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "frz": false,
+      "bri": 255,
+      "cct": 127,
+      "set": 0,
+      "n": "Ninjacat",
+      "col": [
+        [
+          0,
+          255,
+          200
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 0,
+      "sx": 128,
+      "ix": 128,
+      "pal": 0,
+      "c1": 128,
+      "c2": 128,
+      "c3": 16,
+      "sel": false,
+      "rev": false,
+      "mi": false,
+      "o1": false,
+      "o2": false,
+      "o3": false,
+      "si": 0,
+      "m12": 0
+    },
+    {
+      "id": 2,
+      "start": 71,
+      "stop": 94,
+      "len": 23,
+      "grp": 1,
+      "spc": 0,
+      "of": 0,
+      "on": true,
+      "frz": false,
+      "bri": 255,
+      "cct": 127,
+      "set": 0,
+      "n": "Bandana",
+      "col": [
+        [
+          255,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "fx": 0,
+      "sx": 128,
+      "ix": 128,
+      "pal": 0,
+      "c1": 128,
+      "c2": 128,
+      "c3": 16,
+      "sel": false,
+      "rev": false,
+      "mi": false,
+      "o1": false,
+      "o2": false,
+      "o3": false,
+      "si": 0,
+      "m12": 0
+    }
+  ]
+}
