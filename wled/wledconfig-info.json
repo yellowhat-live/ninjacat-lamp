@@ -1,0 +1,66 @@
+{
+  "ver": "0.15.0",
+  "vid": 2412100,
+  "cn": "Kōsen",
+  "release": "ESP8266",
+  "leds": {
+    "count": 94,
+    "pwr": 806,
+    "fps": 40,
+    "maxpwr": 900,
+    "maxseg": 16,
+    "bootps": 1,
+    "seglc": [
+      1,
+      1,
+      1
+    ],
+    "lc": 1,
+    "rgbw": false,
+    "wv": 0,
+    "cct": 0
+  },
+  "str": false,
+  "name": "WLED",
+  "udpport": 21324,
+  "simplifiedui": false,
+  "live": false,
+  "liveseg": -1,
+  "lm": "",
+  "lip": "",
+  "ws": 1,
+  "fxcount": 187,
+  "palcount": 71,
+  "cpalcount": 0,
+  "maps": [
+    {
+      "id": 0
+    }
+  ],
+  "wifi": {
+    "bssid": "F0:9F:C2:03:86:D8",
+    "rssi": -59,
+    "signal": 82,
+    "channel": 11,
+    "ap": false
+  },
+  "fs": {
+    "u": 49,
+    "t": 1024,
+    "pmt": 1739213827
+  },
+  "ndc": 1,
+  "arch": "esp8266",
+  "core": "3.1.2",
+  "clock": 80,
+  "flash": 4,
+  "lwip": 2,
+  "freeheap": 19568,
+  "uptime": 179,
+  "time": "2025-2-10, 18:58:38",
+  "opt": 79,
+  "brand": "WLED",
+  "product": "FOSS",
+  "mac": "08f9e0519c21",
+  "ip": "192.168.178.88"
+}
