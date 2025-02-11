@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > If you have received a Ninjacat lamp because your were a speaker during the conference; **CONGRATULATIONS!** 🎉 And thank you for being awesome! 🙏🏻
-> Please skip ahead to [the setup instructions](https://github.com/yellowhat-live/ninjacat-lamp/tree/main#re-configure-wifi) at the end.
+> Please skip ahead to [the setup instructions](https://github.com/yellowhat-live/ninjacat-lamp/tree/main#re-configure-wi-fi) at the end.
 
 Create your own Ninjacat Wi-Fi-enabled smart light powered by [WLED](https://kno.wled.ge/) and compatible with [Home Assistant](https://www.home-assistant.io/)! 👌🏻
 
