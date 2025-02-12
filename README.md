@@ -10,7 +10,7 @@
 
 Create your own Ninjacat Wi-Fi-enabled smart light powered by [WLED](https://kno.wled.ge/) and compatible with [Home Assistant](https://www.home-assistant.io/)! 👌🏻
 
-![army](/.images/ninjacat-lamp-army.gif)
+[![IMAGE ALT TEXT](/.images/ninjacat-lamp-army.gif)](https://youtu.be/pWfwV63rNcI "Ninjacat lamp | Behind the scenes")
 
 ## Print and build your own lamp
 
