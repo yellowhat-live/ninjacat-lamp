@@ -108,6 +108,10 @@ The easiest way is to run the PowerShell script `Send-Wledconfig.ps1` from this 
 But you can also set the segments manually:
 ![wled-install](/.images/ninjacat-lamp-wled-segments.jpg)
 
+Unfortunately The API doesn't allow for storing presets. So, we have to save the current state as a preset and "apply at boot" if we don't want to loose the current start after a power loss.
+
+![wled-install](/.images/ninjacat-lamp-wled-preset.jpg)
+
 ## Re-configure Wi-Fi
 
 If your lamp is already fully assembled and was setup earlier, please go through the following steps to re-configure Wi-Fi.
