@@ -12,6 +12,8 @@ Create your own Ninjacat Wi-Fi-enabled smart light powered by [WLED](https://kno
 
 [![IMAGE ALT TEXT](/.images/ninjacat-lamp-army.gif)](https://youtu.be/pWfwV63rNcI "Ninjacat lamp | Behind the scenes")
 
+> Click the image above to watch a behind the scenes clip of making the Ninjacat lamp
+
 ## Print and build your own lamp
 
 This repository contains all the print files and instructions to print and built your own Ninjacat lamp!
