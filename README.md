@@ -3,8 +3,7 @@
 ---
 
 > [!NOTE]
-> If you received a Ninjacat lamp because your were a speaker during the **YELLOWHAT** conference; **CONGRATULATIONS!** 🎉 And thanks again for being awesome! 🙏🏻
-> Please skip ahead to [the setup instructions](#re-configure-wi-fi) at the end.
+> If you received a Ninjacat lamp as a gift, or bought it at a conference, please skip ahead to [the setup instructions](#re-configure-wi-fi) at the end.
 
 ---
 
@@ -36,7 +35,7 @@ This repository contains all the print files and instructions to print and built
 | ![espholder](/.images/ninjacat-lamp-printfiles-espholder.png) | ninjacat-lamp-housing-esp8266-holder.stl | This holds the ESP8266 board and should be glued to the backside of the housing/reflector. This ensures the board and cables won't touch the front cover creating ugly shadows from the LEDs. |
 | ![eyes](/.images/ninjacat-lamp-printfiles-eyes.png) | ninjacat-lamp-housing-eye-infill.stl | These tiny white cylinders fit inside the cavities of the cat's eyes, part of the housing. |
 | ![stand](/.images/ninjacat-lamp-printfiles-stand.png) | ninjacat-lamp-housing-stand.stl | A separate stand if you which to put your Ninjacat on a shelve instead of hanging it on the wall. |
-| ![tag](/.images/ninjacat-lamp-printfiles-tag.png) | ninjacat-lamp-housing-stand.stl | This tag was part of the Yellowhat 2025 giveaway, and speaker gifts, and is obviously completely optional. The QR code links to this page for instructions on how to use/setup the lamp. |
+| ![tag](/.images/ninjacat-lamp-printfiles-tag.png) | ninjacat-lamp-housing-stand.stl | This tag was part of the Yellowhat 2025 giveaway speaker gifts, and purchases at conferences. This item is obviously completely optional. The QR code links to this page for instructions on how to use/setup the lamp. |
 | ![tag](/.images/ninjacat-lamp-printfiles-3mf.png) | ninjacat-lamp.3mf | This project file is probably the best way to get started. It uses all the print settings specified above, and it also contains some additional modifier shapes to prevent ironing certain parts which will not stay visible in the assembled state. The last plate shouldn't be printed and is just to provide a visualization of the entire end result. |
 
 ![print-timelapse](/.images/ninjacat-lamp-print-timelapse.gif)
